@@ -1,0 +1,14 @@
+{
+  "priority": 10,
+  "request": {
+    "method": "GET",
+    "urlPattern": "/simple-model.groovy"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "simple-model.groovy",
+    "headers": {
+      "Content-Type": "text/plain"
+    }
+  }
+}

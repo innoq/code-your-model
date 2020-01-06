@@ -1,0 +1,6 @@
+target/
+*.iml
+.idea/
+/neo4j/
+/src/test/groovy/com/innoq/codeyourmodel/samples/bigpugloans/*.puml
+/src/test/groovy/com/innoq/codeyourmodel/samples/eventdriven/*.puml
