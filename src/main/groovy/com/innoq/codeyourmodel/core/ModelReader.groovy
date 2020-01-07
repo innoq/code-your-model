@@ -4,6 +4,9 @@ import com.innoq.codeyourmodel.core.dsl.ModelSpec
 import com.innoq.codeyourmodel.core.meta2.Element
 import groovy.util.logging.Log
 
+/**
+ * The <code>ModelReader</code> is used to read the model definition into a <code>ModelRepository</code>.
+ */
 @Log
 class ModelReader {
   final ModelRepository modelRepository
