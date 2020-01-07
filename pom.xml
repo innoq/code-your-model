@@ -4,7 +4,7 @@
 
   <groupId>com.innoq</groupId>
   <artifactId>code-your-model</artifactId>
-  <version>0.1</version>
+  <version>0.2-SNAPSHOT</version>
 
   <name>code-your-model</name>
   <description>document a complex, distributed model in an easy, concise and project-/domain-specific way</description>
@@ -27,7 +27,7 @@
     <connection>scm:git:git@github.com:innoq/code-your-model.git</connection>
     <developerConnection>scm:git:git@github.com:innoq/code-your-model.git</developerConnection>
     <url>git@github.com:innoq/code-your-model.git</url>
-    <tag>code-your-model-0.1</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <developers>
