@@ -1,14 +1,14 @@
 code-your-model
 ===
 
-*code-your-model* allows to document a complex, distributed model in an easy, concise and project-/domain-specific 
+*code-your-model* allows to document a complex, modularized model in an easy, concise and project-/domain-specific 
 way. 
 
 Its core features are 
 
 * allows to define a project-specific meta-model
 * provides a DSL based on that meta-model to describe (code) the concrete model
-* loads one or more (distributed) model files into a [neo4j graph database][neo4j] to browse/query it
+* loads one or more model files into a [neo4j graph database][neo4j] to browse/query it
 
 *code-your-model* is based on the [groovy programming language][groovy]. Its [published as an open source project at 
 github][github] under the [Apache Software License, Version 2.0][apache-license-v2].  
