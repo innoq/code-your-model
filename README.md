@@ -1,8 +1,7 @@
 code-your-model
 ===
 
-*code-your-model* allows to document a complex, modularized model in an easy, concise and project-/domain-specific 
-way. 
+*code-your-model* allows to document a complex, modularized model in an easy, concise and project-/domain-specific way and load it into a graph database to browse/query it.
 
 Its core features are 
 
@@ -19,6 +18,20 @@ Its currently released as a **beta version** which means that it is still work-i
 Copyright (C) 2019, 2020 innoQ Deutschland GmbH
 
 ---
+
+## Introduction
+
+There is a [blog post](https://www.innoq.com/en/blog/code-your-model/) that introduces the idea behind *code-your-model* and describes how it can be used. The sample project that is build up from scratch in this blog post can be found [here](https://github.com/innoq/code-your-model-example).
+
+## Differentiation
+
+*code-your-model* was designed and implemented to analyse a complex, project-specific, modularized model that *already exists*. Its main focus lies on the ability to define and use an individual meta-model and to analyze (browse/query) the model.
+
+If you have to come up with a new model, you will probably find a more appropriate tool to assist you. Especially one with a stronger focus on graphical representations to share and discuss your ideas.
+
+In case you want to build a model explicitly and only based on a fix and well-known meta-model like [DDD](https://www.oreilly.com/library/view/domain-driven-design-distilled/9780134434964/) or the [C4 model](https://c4model.com/), you should probably think about using tools like [ContextMapper](https://contextmapper.org/) or [Structurizr](https://structurizr.com/) which focus on those models and will be more powerful.
+
+*code-your-model* does not want to replace any of those or any other modelling tools.
 
 ## Usage
 
